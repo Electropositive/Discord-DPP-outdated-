@@ -1,0 +1,14 @@
+# Target labels
+ websocketpp-download
+# Source files and their labels
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download.rule
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule
+/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule

@@ -1,0 +1,207 @@
+[
+{
+  "directory": "/workspaces/Discord-DPP/build",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/discordbot.dir/source.cpp.o -c /workspaces/Discord-DPP/source.cpp",
+  "file": "/workspaces/Discord-DPP/source.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/auth.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/auth.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/auth.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/cookies.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/cookies.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/cookies.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/cprtypes.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/cprtypes.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/cprtypes.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/curlholder.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/curlholder.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/curlholder.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/digest.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/digest.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/digest.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/error.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/error.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/error.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/multipart.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/multipart.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/multipart.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/ntlm.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/ntlm.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/ntlm.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/parameters.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/parameters.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/parameters.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/payload.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/payload.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/payload.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/proxies.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/proxies.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/proxies.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/session.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/session.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/session.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/timeout.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/timeout.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/timeout.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/unix_socket.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/unix_socket.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/unix_socket.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/deps/cpr/cpr",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DUSE_OPENSSL -DUSE_SYSTEM_CURL -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -std=gnu++11 -o CMakeFiles/cpr.dir/util.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/util.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/cpr/util.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/asio_udp.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/asio_udp.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/asio_udp.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/attachment.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/attachment.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/attachment.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/channel.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/channel.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/channel.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/client.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/client.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/client.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/cpr_session.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/cpr_session.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/cpr_session.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/default_functions.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/default_functions.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/default_functions.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/embed.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/embed.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/embed.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/endpoints.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/endpoints.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/endpoints.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/gateway.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/gateway.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/gateway.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/http.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/http.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/http.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/invite.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/invite.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/invite.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/json_wrapper.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/json_wrapper.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/json_wrapper.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/message.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/message.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/message.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/permissions.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/permissions.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/permissions.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/sd_error.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/sd_error.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/sd_error.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/server.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/server.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/server.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/slash_commands.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/slash_commands.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/slash_commands.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/user.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/user.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/user.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/uwebsockets_websocket.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/uwebsockets_websocket.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/uwebsockets_websocket.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/voice.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/voice.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/voice.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/voice_connection.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/voice_connection.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/voice_connection.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/webhook.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/webhook.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/webhook.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/websocketpp_websocket.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/websocketpp_websocket.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/websocketpp_websocket.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/zlib_compression.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/zlib_compression.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/zlib_compression.cpp"
+},
+{
+  "directory": "/workspaces/Discord-DPP/build/deps/sleepy-discord/sleepy_discord",
+  "command": "/usr/bin/g++  -DCURL_STATICLIB -DEXISTENT_ASIO -DEXISTENT_CPR -DEXISTENT_WEBSOCKETPP -DNONEXISTENT_OPUS -DNONEXISTENT_SODIUM -DNONEXISTENT_UWEBSOCKETS -DNONEXISTENT_ZLIB -DNONEXISTENT_ZLIB_NG -DSLEEPY_DISCORD_CMAKE -I/workspaces/Discord-DPP/deps/sleepy-discord/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/include -I/workspaces/Discord-DPP/deps/sleepy-discord/include/sleepy_discord -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/asio/asio/include -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/websocketpp -I/workspaces/Discord-DPP/deps/sleepy-discord/deps/cpr/include  -g   -Wall -pthread -o CMakeFiles/sleepy-discord.dir/stage_instance.cpp.o -c /workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/stage_instance.cpp",
+  "file": "/workspaces/Discord-DPP/deps/sleepy-discord/sleepy_discord/stage_instance.cpp"
+}
+]

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule"
+		},
+		{
+			"file" : "/workspaces/Discord-DPP/build/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"websocketpp-download"
+		],
+		"name" : "websocketpp-download"
+	}
+}

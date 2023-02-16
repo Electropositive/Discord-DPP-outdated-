@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/discordbot.dir/source.cpp.o  -o discordbot  deps/sleepy-discord/sleepy_discord/libsleepy-discord.a lib/libcpr.a /usr/lib/x86_64-linux-gnu/libcurl.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so -pthread 

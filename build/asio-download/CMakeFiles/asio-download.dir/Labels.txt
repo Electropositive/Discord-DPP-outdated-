@@ -1,0 +1,14 @@
+# Target labels
+ asio-download
+# Source files and their labels
+/workspaces/Discord-DPP/build/asio-download/CMakeFiles/asio-download
+/workspaces/Discord-DPP/build/asio-download/CMakeFiles/asio-download.rule
+/workspaces/Discord-DPP/build/asio-download/CMakeFiles/asio-download-complete.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-install.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-mkdir.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-download.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-patch.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-configure.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-build.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-test.rule
+/workspaces/Discord-DPP/build/asio-download/asio-download-prefix/src/asio-download-stamp/asio-download-skip-update.rule

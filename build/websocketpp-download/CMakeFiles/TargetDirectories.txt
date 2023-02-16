@@ -1,0 +1,3 @@
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/rebuild_cache.dir
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/edit_cache.dir
+/workspaces/Discord-DPP/build/websocketpp-download/CMakeFiles/websocketpp-download.dir
